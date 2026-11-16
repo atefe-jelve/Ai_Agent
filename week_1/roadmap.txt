@@ -1,0 +1,13 @@
+
+
+این لیستی هست که میحوام انجام بدم
+1 Intro to agents model · tools · loop · memory
+2 Tool calling one tool, one round trip
+3 Single-turn evals does it pick the right tool?
+4 The agent loop the heart of it
+5 Multi-turn evals mocked tools · order · LLM judge
+6 File system tools read · write · list · delete
+7 Web search + context reach out · stay in budget
+8 Shell tool power, and its danger
+9 Human-in-the-loop
+من دانش کافی ندارم و باید هر کدام کخه قراره مرحله به مذحله انجا م بشه توضیج درست و کافی به همراه قطعه کد و و نحوه استفاده داشته باشه
